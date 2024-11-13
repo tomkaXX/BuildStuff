@@ -1,10 +1,12 @@
 # Sample data
 
 **Participant Level**: All Levels  
-**Date and Time**: 9:00 AM – 12:00 PM  
-**Location**: University Room (5th Floor, T-REX)  
-**Registration**: [Register Here](#)  
+**Date and Time**: 14:00 PM – 16:00 PM  
+**Location**: Opsillon Room (5th Floor, T-REX)  
+**DS2 Platform Registration**: [Register your account here](https://ps2.d2s.org/projects)  
 **Workshop Page**: [Visit Workshop](#)  
+**Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
+
 
 ---
 
