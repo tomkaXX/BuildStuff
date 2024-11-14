@@ -90,13 +90,15 @@ Notebook:
   A resource for PX4, an open-source flight control software for drones, with information on robotics integration.
 
 
-https://youtu.be/YBrenZHu31g?si=QLtXQ6_zHsVTB_Vr
-[![Introduction to Drones](https://img.youtube.com/vi/abcd1234/maxresdefault.jpg)](https://www.youtube.com/watch?v=YBrenZHu31g?si=99kiYAn8p0m7pV_B)
 ## ✈️ My Drones Video from Sri Lanka 
-[![DJI drone Video](https://img.youtube.com/vi/YBrenZHu31g/maxresdefault.jpg)](https://www.youtube.com/watch?v=YBrenZHu31g&ab_channel=TamaraKoliada)
+Press on image to watch video (Please turn sounds off in advance)
+[![Scenic filming Video](https://img.youtube.com/vi/YBrenZHu31g/maxresdefault.jpg)](https://www.youtube.com/watch?v=YBrenZHu31g&ab_channel=TamaraKoliada)
 
 
-## ✈️ My Favourite Drones
+Racing drone in Mallorca (30 October 2024)
+[![Racing Drone Video](https://img.youtube.com/vi/kJVjDiOpkrc/maxresdefault.jpg)](https://youtu.be/kJVjDiOpkrc)
+
+## ✈️ Drones
 - **Best 5” Bind n Fly FPV Drone:** [Link](https://tinyurl.com/mrxnw5nv)
 - **Most Travel-Friendly FPV Drone:** [Link](https://amzn.to/42OikQx)
 
@@ -131,7 +133,7 @@ https://youtu.be/YBrenZHu31g?si=QLtXQ6_zHsVTB_Vr
 
 ---
 
-Here’s a guide to setting up Microsoft AirSim on a MacBook for testing drones and other vehicles in simulation:
+Here’s a guide for testing drones and other vehicles in simulation:
 
 | **Simulator**              | **Platform**             | **Control Options**                    | **Hardware Requirements**                          | **Special Features**                                    | **Ideal For**                                         | **Link**                                                |
 |----------------------------|--------------------------|----------------------------------------|----------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
