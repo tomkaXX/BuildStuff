@@ -8,6 +8,8 @@ Workshop for a BuildStuff 2024
 **Workshop Page**: [Visit Workshop](#)  
 **Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
 
+Quizz : https://www.menti.com/almyw8kmk8gj
+
 
 ## Agenda
 
