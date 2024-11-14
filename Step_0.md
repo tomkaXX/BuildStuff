@@ -5,4 +5,4 @@ Get sample data for the workshop
 - do not unzip `project_boundary.zip` file!
 - you can unzip sample data and additional data zip locally
 
-📝 **Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
+📝 **Flight sample data**: [Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
