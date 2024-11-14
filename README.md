@@ -9,6 +9,19 @@ Workshop for a BuildStuff 2024
 **Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
 
 
+Agenda
+The main topics to be covered in this workshop include:
+General presentation 
+
+Practical part :
+1) Visualize drone imagery from D2S 
+2) Visualize Google Earth Engine data and Create interactive maps
+
+Optional:
+Explore Earth Engine Data Catalogs
+Analyze Earth Engine data
+Create time-lapse animations
+
 ---
 
 ## Workshop Overview
