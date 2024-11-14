@@ -14,12 +14,11 @@ Workshop for a BuildStuff 2024
 **Main Topics**
 
 The main topics to be covered in this workshop include:
-- General Presentation**
+- General Presentation
 
 **Practical Part**
-
-1. Visualize Drone Imagery from D2S
-2. Visualize Google Earth Engine Data and Create Interactive Maps
+- Visualize Drone Imagery from D2S
+- Visualize Google Earth Engine Data and Create Interactive Maps
 
 **Optional**
 
