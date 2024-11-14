@@ -42,7 +42,7 @@ The workshop includes sample data collected over several flights using various s
 Register here: https://ps2.d2s.org/auth/register
 
 🌐 Access maps and satellite data 
-Register account here : https://code.earthengine.google.com/
+Register an account here: https://code.earthengine.google.com/
 
 📝 Download sample data:
 **Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
@@ -92,15 +92,9 @@ Notebook:
 
 
 
-# Install dependencies:
 
 
-
-
-# Optional: Configure Additional Settings
-
-
-# You’re Ready to go!
+### You’re Ready to go!
 
 
 
