@@ -37,7 +37,7 @@ The workshop includes sample data collected over several flights using various s
 ---
 
 
-# Step 1: Prerequisites
+## Step 1: Prerequisites
 ✨ Create a free account at D2S to start uploading, managing, and visualizing your drone imagery! 
 Register here: https://ps2.d2s.org/auth/register
 
@@ -51,7 +51,7 @@ Notebook:
 **Flight data parameters**:[Link to Flight parameters](https://github.com/tomkaXX/BuildStuff/tree/main/sample%20data)
 
 
-# Useful Resources
+## Useful Resources
 
 - [Geemap Book](https://book.geemap.org/)  
   A comprehensive guide to using Geemap for geospatial analysis with Google Earth Engine.
