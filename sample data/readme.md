@@ -1,6 +1,10 @@
-# Sample data
+# Get sample data for the workshop
 
-## Flight Information
+Get sample data for the workshop
+- Before accessing the D2SE webpage, please download the following files.
+- do not unzip boundary file. 
+
+## Flight Information of the sample data is below:
 
 | **Date**         | **Sensor**       | **Altitude (m)** | **Side Overlap (%)** | **Forward Overlap (%)** | **Platform** | **Products**          |
 |------------------|------------------|------------------|-----------------------|--------------------------|--------------|------------------------|
@@ -16,4 +20,3 @@
 
 ---
 
-For additional details, please visit the [Workshop Page](#) or [Register Here](#).
