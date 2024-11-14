@@ -12,7 +12,6 @@ Workshop for a BuildStuff 2024
 ## Agenda
 
 **Main Topics**
-
 The main topics to be covered in this workshop include:
 - General Presentation
 
@@ -21,7 +20,6 @@ The main topics to be covered in this workshop include:
 - Visualize Google Earth Engine Data and Create Interactive Maps
 
 **Optional**
-
 - Explore Earth Engine Data Catalogs
 - Analyze Earth Engine Data
 - Create Time-Lapse Animations
