@@ -93,6 +93,54 @@ Notebook:
 
 
 
+## ✈️ My Favourite Drones
+- **Best 5” Bind n Fly FPV Drone:** [Link](https://tinyurl.com/mrxnw5nv)
+- **Most Travel-Friendly FPV Drone:** [Link](https://amzn.to/42OikQx)
+
+## 🏎️  Racing Drone Parts
+- **Five33 Frame (SFG):** [Link](https://tinyurl.com/mryuhchy)
+- **Side Force Generators:** [Link](https://tinyurl.com/2jm3nzms)
+- **Champions 2207 Motor:** [Link](https://tinyurl.com/2phpkyau)
+- **RunCam Racer Nano 2:** [Link](https://amzn.to/3ZAO4qU)
+- **Foxeer Reaper Mini (ESC):** [Link](https://amzn.to/449riby)
+- **Foxeer F722 V4 Mini (FC):** [Link](https://amzn.to/44h6COY)
+- **TBS Crossfire Sixty9 (VTx & Rx):** [Link](https://amzn.to/42Zeuoq)
+- **Smooth As Props:** [Link](https://amzn.to/3PxTIIx)
+
+## 👀 Must-Haves
+- **Rip Sticks:** [Link](https://amzn.to/3JooAaw)
+- **Stack Saver:** [Link](https://tinyurl.com/3t52w7n6)
+
+## 🎮 Controller Setup
+- **TX16S Controller:** [Link](https://amzn.to/3YpdkPu)
+- **Battery:** [Link](https://amzn.to/3SSWd7M)
+- **Crossfire Module:** [Link](https://amzn.to/3MjPIJn)
+
+## 🧰 Essential Tools
+- **Smoke Stopper:** [Link](https://amzn.to/3PvluFk)
+- **TS101 Soldering Iron:** [Link](https://amzn.to/3kJ9gw1)
+- **4-in-1 Hex Driver:** [Link](https://amzn.to/3nIrIWq)
+- **Ratcheting Prop Tool:** [Link](https://amzn.to/3yk2DmI)
+- **Solder:** [Link](https://amzn.to/3ZHgNdp)
+
+## 🚁 FPV Online Shopping
+- **Best Shop for NZ & AUS:** [KiwiQuads](https://www.kiwiquads.co.nz)
+
+---
+
+Here’s a guide to setting up Microsoft AirSim on a MacBook for testing drones and other vehicles in simulation:
+
+| **Simulator**              | **Platform**             | **Control Options**                    | **Hardware Requirements**                          | **Special Features**                                    | **Ideal For**                                         | **Link**                                                |
+|----------------------------|--------------------------|----------------------------------------|----------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
+| **AirSim**                 | Windows, Linux           | Game controllers, keyboard, custom remotes | GPU with DirectX 11; moderately powerful CPU       | APIs for Python and C++, Unreal Engine, realistic physics | Researchers and developers focused on AI and data analysis | [AirSim GitHub](https://github.com/microsoft/AirSim)    |
+| **FlightGear**             | Windows, macOS, Linux    | Keyboard, mouse, joystick, USB controllers | Moderate GPU, mid-range CPU                        | Open-source with real-world mapping, customizable       | Enthusiasts seeking realistic flight for fixed-wing drones | [FlightGear Official Site](https://www.flightgear.org/)  |
+| **DRL Simulator**          | Windows, macOS           | Game controllers, custom drone controllers | Dedicated GPU, moderately powerful CPU             | Realistic racing environments, multiplayer mode         | Drone racing enthusiasts and competitive pilots          | [DRL Simulator](https://thedroneracingleague.com/simulator/) |
+| **Gazebo with ROS**        | Linux (Ubuntu preferred) | Custom controllers, ROS-compatible hardware | Moderately powerful CPU, dedicated GPU for graphics | Integrates with ROS, supports realistic physics         | Researchers needing open-source robotics testing         | [Gazebo](http://gazebosim.org/)                           |
+| **RealFlight (Free Demo)** | Windows                  | Joystick, custom USB RC controllers    | Mid- to high-range GPU, powerful CPU               | High-quality graphics, realistic physics                | Drone enthusiasts and RC pilots for realistic practice   | [RealFlight](https://www.realflight.com/)                |
+| **VelociDrone (Free Demo)**| Windows, macOS           | Game controllers, USB or RC transmitter | Moderate GPU, mid-range CPU                        | FPV physics, multiplayer, custom track building         | FPV racing enthusiasts and freestyle pilots              | [VelociDrone](https://www.velocidrone.com/)              |
+
+
+
 
 ### You’re Ready to go!
 
