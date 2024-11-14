@@ -1,4 +1,5 @@
-# 1. Access the P2S website
+# Step 1: Create account at P2S website 
+### Access the P2S website
 
 Let's start by opening a P2S account: [https://ps2.d2s.org/auth/register](https://ps2.d2s.org/auth/register)
 
