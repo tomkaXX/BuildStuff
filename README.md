@@ -102,6 +102,9 @@ Racing drone in Mallorca (30 October 2024)
 Racing drone in Mallorca (30 October 2024)
 [![Racing drone Video](https://img.youtube.com/vi/kJVjDiOpkrc/maxresdefault.jpg)](https://www.youtube.com/watch?v=kJVjDiOpkrc&feature=youtu.be)
 
+[![Tamara Koliada Video](https://img.youtube.com/vi/kJVjDiOpkrc/0.jpg)](https://www.youtube.com/watch?v=kJVjDiOpkrc&feature=youtu.be)
+
+
 ## ✈️ Drones
 - **Best 5” Bind n Fly FPV Drone:** [Link](https://tinyurl.com/mrxnw5nv)
 - **Most Travel-Friendly FPV Drone:** [Link](https://amzn.to/42OikQx)
