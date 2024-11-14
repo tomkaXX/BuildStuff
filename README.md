@@ -99,6 +99,8 @@ Racing drone in Mallorca (30 October 2024)
 [![Racing Drone Video](https://img.youtube.com/vi/kJVjDiOpkrc/maxresdefault.jpg)](https://youtu.be/kJVjDiOpkrc?si=3nqOeSWm_SFCEImz)
 
 [![Racing Drone Video](https://img.youtube.com/vi/kJVjDiOpkrc/maxresdefault.jpg)](https://youtu.be/kJVjDiOpkrc)
+Racing drone in Mallorca (30 October 2024)
+[![Racing drone Video](https://img.youtube.com/vi/kJVjDiOpkrc/maxresdefault.jpg)](https://www.youtube.com/watch?v=kJVjDiOpkrc&feature=youtu.be)
 
 ## ✈️ Drones
 - **Best 5” Bind n Fly FPV Drone:** [Link](https://tinyurl.com/mrxnw5nv)
