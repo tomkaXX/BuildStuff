@@ -1,4 +1,4 @@
-# Step-by-Step Guide for Setting up Google Earth Engine Account
+# Step 2 Setting up Google Earth Engine Account
 
 ## 2. Create an Account at Google Earth Engine
 
