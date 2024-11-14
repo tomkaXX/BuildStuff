@@ -91,8 +91,9 @@ Notebook:
 
 
 https://youtu.be/YBrenZHu31g?si=QLtXQ6_zHsVTB_Vr
-[![Introduction to Drones](https://img.youtube.com/vi/abcd1234/maxresdefault.jpg)](https://www.youtube.com/watch?v=abcd1234)
-
+[![Introduction to Drones](https://img.youtube.com/vi/abcd1234/maxresdefault.jpg)](https://www.youtube.com/watch?v=YBrenZHu31g?si=99kiYAn8p0m7pV_B)
+## ✈️ My Drones Video from Sri Lanka 
+[![DJI drone Video](https://img.youtube.com/vi/YBrenZHu31g/maxresdefault.jpg)](https://www.youtube.com/watch?v=YBrenZHu31g&ab_channel=TamaraKoliada)
 
 
 ## ✈️ My Favourite Drones
