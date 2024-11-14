@@ -42,7 +42,7 @@ The workshop includes sample data collected over several flights using various s
 Register here: https://ps2.d2s.org/auth/register
 
 🌐 Access maps and satellite data 
-Register here : https://code.earthengine.google.com/
+Register account here : https://code.earthengine.google.com/
 
 📝 Download sample data:
 **Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
@@ -51,26 +51,44 @@ Notebook:
 **Flight data parameters**:[Link to Flight parameters](https://github.com/tomkaXX/BuildStuff/tree/main/sample%20data)
 
 
-# Useful resources 
-https://book.geemap.org/
-https://book.geemap.org/chapters/02_maps.html
+# Useful Resources
 
-https://developers.google.com/earth-engine/guides/image_visualization#colab-python
+- [Geemap Book](https://book.geemap.org/)  
+  A comprehensive guide to using Geemap for geospatial analysis with Google Earth Engine.
 
-Leafmap Tutorials Playlist: https://gishub.org/youtube-leafmap
-Geographic Software Design Playlist: https://gishub.org/gsd
-Spatial Data Management Playlist: https://gishub.org/sdm
-leafmap homepage: https://leafmap.org
-geemap homepage: https://geemap.org
-Register accounts : 
-https://code.earthengine.google.com/
+- [Geemap - Map Visualization Chapter](https://book.geemap.org/chapters/02_maps.html)  
+  Focuses on map visualization techniques in Geemap, including interactive mapping features.
 
+- [Google Earth Engine - Image Visualization Guide](https://developers.google.com/earth-engine/guides/image_visualization#colab-python)  
+  Official guide for visualizing images in Google Earth Engine using Python in Colab.
 
+- [Leafmap Tutorials Playlist](https://gishub.org/youtube-leafmap)  
+  A YouTube playlist offering tutorials on Leafmap, a Python package for interactive maps.
 
+- [Geographic Software Design Playlist](https://gishub.org/gsd)  
+  Video series on design principles for geographic software, focusing on geospatial tools.
 
-Data to Science (D2S): https://ps2.d2s.org
-https://developers.google.com/earth-engine/
-https://docs.px4.io/main/en/robotics/
+- [Spatial Data Management Playlist](https://gishub.org/sdm)  
+  A playlist covering techniques and best practices in spatial data management.
+
+- [Leafmap Homepage](https://leafmap.org)  
+  The official homepage for Leafmap, a tool for creating interactive maps in Python.
+
+- [Geemap Homepage](https://geemap.org)  
+  The official homepage for Geemap, a Python package for Google Earth Engine applications.
+
+- [Google Earth Engine Code platform](https://code.earthengine.google.com/)  
+  Google Earth Engine account to access powerful geospatial data processing tools.
+
+- [Data to Science (D2S)](https://ps2.d2s.org)  
+  A platform for managing and visualizing data with a focus on drone imagery and other geospatial data.
+
+- [Google Earth Engine Developers Guide](https://developers.google.com/earth-engine/)  
+  Documentation and guides for using the Google Earth Engine API.
+
+- [PX4 Documentation](https://docs.px4.io/main/en/robotics/)  
+  A resource for PX4, an open-source flight control software for drones, with information on robotics integration.
+
 
 
 
