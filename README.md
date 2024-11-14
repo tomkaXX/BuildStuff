@@ -90,6 +90,8 @@ Notebook:
   A resource for PX4, an open-source flight control software for drones, with information on robotics integration.
 
 
+https://youtu.be/YBrenZHu31g?si=QLtXQ6_zHsVTB_Vr
+[![Introduction to Drones](https://img.youtube.com/vi/abcd1234/maxresdefault.jpg)](https://www.youtube.com/watch?v=abcd1234)
 
 
 
