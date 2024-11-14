@@ -13,7 +13,7 @@ Register here : https://code.earthengine.google.com/
 
 Workshop link :
 Notebook: 
-Flight data parameters
+Flight data parameters: https://github.com/tomkaXX/BuildStuff/tree/main/sample%20data
 
 
 # Useful resources 
