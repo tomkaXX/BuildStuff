@@ -102,8 +102,8 @@ Racing drone in Mallorca (30 October 2024)
 
 
 ## ✈️ Drones
-- **Best 5” Bind n Fly FPV Drone:** [Link](https://tinyurl.com/mrxnw5nv)
-- **Most Travel-Friendly FPV Drone:** [Link](https://amzn.to/42OikQx)
+- **5” Bind n Fly FPV Drone:** [Link](https://tinyurl.com/mrxnw5nv)
+- **Travel-Friendly FPV Drone:** [Link](https://amzn.to/42OikQx)
 
 ## 🏎️  Racing Drone Parts
 - **Five33 Frame (SFG):** [Link](https://tinyurl.com/mryuhchy)
