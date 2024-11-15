@@ -6,11 +6,10 @@ Workshop for a BuildStuff 2024
 **Location**: Opsillon Room (2nd Floor)  
 
 **Presentation**: [link to prezi](https://prezi.com/view/2jS6FFfvmolAuBgeuKmN/)
-**DS2 Platform Registration**: [Register your account here](https://ps2.d2s.org/projects)  
-**Workshop notebook**: [link to colab](https://colab.research.google.com/github/tomkaXX/BuildStuff/blob/main/BuildStuff.ipynb)  
-**Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
 
-Quizz : https://www.menti.com/almyw8kmk8gj
+**Workshop notebook**: [link to colab](https://colab.research.google.com/github/tomkaXX/BuildStuff/blob/main/BuildStuff.ipynb)  
+
+
 
 
 ## Agenda
@@ -56,6 +55,10 @@ Flight sample data: [Link to Google Drive files](https://drive.google.com/drive/
 Flight data parameters for D2S Platform:[parameters](https://github.com/tomkaXX/BuildStuff/tree/main/sample%20data)
 
 Currently, ipywidgets does not work well with Colab dark theme. Some of the geemap widgets may not display properly in Colab dark theme. It is recommended that you change Colab to the light theme.
+
+**DS2 Platform Registration**: [Register your account here](https://ps2.d2s.org/projects)  
+
+**Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
 
 ## Colab 
 
