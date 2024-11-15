@@ -90,6 +90,19 @@ Notebook:
 
 - [PX4 Documentation](https://docs.px4.io/main/en/robotics/)  
   A resource for PX4, an open-source flight control software for drones, with information on robotics integration.
+---
+
+Here’s a guide for testing drones and other vehicles in simulation:
+
+| **Simulator**              | **Platform**             | **Control Options**                    | **Hardware Requirements**                          | **Special Features**                                    | **Ideal For**                                         | **Link**                                                |
+|----------------------------|--------------------------|----------------------------------------|----------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
+| **AirSim**                 | Windows, Linux           | Game controllers, keyboard, custom remotes | GPU with DirectX 11; moderately powerful CPU       | APIs for Python and C++, Unreal Engine, realistic physics | Researchers and developers focused on AI and data analysis | [AirSim GitHub](https://github.com/microsoft/AirSim)    |
+| **FlightGear**             | Windows, macOS, Linux    | Keyboard, mouse, joystick, USB controllers | Moderate GPU, mid-range CPU                        | Open-source with real-world mapping, customizable       | Enthusiasts seeking realistic flight for fixed-wing drones | [FlightGear Official Site](https://www.flightgear.org/)  |
+| **DRL Simulator**          | Windows, macOS           | Game controllers, custom drone controllers | Dedicated GPU, moderately powerful CPU             | Realistic racing environments, multiplayer mode         | Drone racing enthusiasts and competitive pilots          | [DRL Simulator](https://thedroneracingleague.com/simulator/) |
+| **Gazebo with ROS**        | Linux (Ubuntu preferred) | Custom controllers, ROS-compatible hardware | Moderately powerful CPU, dedicated GPU for graphics | Integrates with ROS, supports realistic physics         | Researchers needing open-source robotics testing         | [Gazebo](http://gazebosim.org/)                           |
+| **RealFlight (Free Demo)** | Windows                  | Joystick, custom USB RC controllers    | Mid- to high-range GPU, powerful CPU               | High-quality graphics, realistic physics                | Drone enthusiasts and RC pilots for realistic practice   | [RealFlight](https://www.realflight.com/)                |
+| **VelociDrone (Free Demo)**| Windows, macOS           | Game controllers, USB or RC transmitter | Moderate GPU, mid-range CPU                        | FPV physics, multiplayer, custom track building         | FPV racing enthusiasts and freestyle pilots              | [VelociDrone](https://www.velocidrone.com/)              |
+
 
 
 ## ✈️ My Drones Video from Sri Lanka 
@@ -126,20 +139,6 @@ Racing drone in Mallorca (30 October 2024)
 - **4-in-1 Hex Driver:** [Link](https://amzn.to/3nIrIWq)
 - **Ratcheting Prop Tool:** [Link](https://amzn.to/3yk2DmI)
 - **Solder:** [Link](https://amzn.to/3ZHgNdp)
-
----
-
-Here’s a guide for testing drones and other vehicles in simulation:
-
-| **Simulator**              | **Platform**             | **Control Options**                    | **Hardware Requirements**                          | **Special Features**                                    | **Ideal For**                                         | **Link**                                                |
-|----------------------------|--------------------------|----------------------------------------|----------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
-| **AirSim**                 | Windows, Linux           | Game controllers, keyboard, custom remotes | GPU with DirectX 11; moderately powerful CPU       | APIs for Python and C++, Unreal Engine, realistic physics | Researchers and developers focused on AI and data analysis | [AirSim GitHub](https://github.com/microsoft/AirSim)    |
-| **FlightGear**             | Windows, macOS, Linux    | Keyboard, mouse, joystick, USB controllers | Moderate GPU, mid-range CPU                        | Open-source with real-world mapping, customizable       | Enthusiasts seeking realistic flight for fixed-wing drones | [FlightGear Official Site](https://www.flightgear.org/)  |
-| **DRL Simulator**          | Windows, macOS           | Game controllers, custom drone controllers | Dedicated GPU, moderately powerful CPU             | Realistic racing environments, multiplayer mode         | Drone racing enthusiasts and competitive pilots          | [DRL Simulator](https://thedroneracingleague.com/simulator/) |
-| **Gazebo with ROS**        | Linux (Ubuntu preferred) | Custom controllers, ROS-compatible hardware | Moderately powerful CPU, dedicated GPU for graphics | Integrates with ROS, supports realistic physics         | Researchers needing open-source robotics testing         | [Gazebo](http://gazebosim.org/)                           |
-| **RealFlight (Free Demo)** | Windows                  | Joystick, custom USB RC controllers    | Mid- to high-range GPU, powerful CPU               | High-quality graphics, realistic physics                | Drone enthusiasts and RC pilots for realistic practice   | [RealFlight](https://www.realflight.com/)                |
-| **VelociDrone (Free Demo)**| Windows, macOS           | Game controllers, USB or RC transmitter | Moderate GPU, mid-range CPU                        | FPV physics, multiplayer, custom track building         | FPV racing enthusiasts and freestyle pilots              | [VelociDrone](https://www.velocidrone.com/)              |
-
 
 
 
