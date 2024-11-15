@@ -5,7 +5,7 @@ Workshop for a BuildStuff 2024
 **Date and Time**: 14:00 PM – 16:00 PM  
 **Location**: Opsillon Room (2nd Floor)  
 
-**Presentation**: [link to prezi](https://prezi.com/view/2jS6FFfvmolAuBgeuKmN/)
+**Presentation**: [link ](https://prezi.com/view/2jS6FFfvmolAuBgeuKmN/)
 
 **Workshop notebook**: [link to colab](https://colab.research.google.com/github/tomkaXX/BuildStuff/blob/main/BuildStuff.ipynb)  
 
