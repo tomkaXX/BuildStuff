@@ -93,7 +93,7 @@ Notebook:
 
 
 ## ✈️ My Drones Video from Sri Lanka 
-Press on image to watch video (Please turn sounds off in advance)
+Press on the image to watch the video
 [![Scenic filming Video](https://img.youtube.com/vi/YBrenZHu31g/maxresdefault.jpg)](https://www.youtube.com/watch?v=YBrenZHu31g&ab_channel=TamaraKoliada)
 
 
