@@ -131,9 +131,6 @@ Racing drone in Mallorca (30 October 2024)
 - **Ratcheting Prop Tool:** [Link](https://amzn.to/3yk2DmI)
 - **Solder:** [Link](https://amzn.to/3ZHgNdp)
 
-## 🚁 FPV Online Shopping
-- **Best Shop for NZ & AUS:** [KiwiQuads](https://www.kiwiquads.co.nz)
-
 ---
 
 Here’s a guide for testing drones and other vehicles in simulation:
