@@ -115,10 +115,6 @@ Racing drone in Mallorca (30 October 2024)
 - **TBS Crossfire Sixty9 (VTx & Rx):** [Link](https://amzn.to/42Zeuoq)
 - **Smooth As Props:** [Link](https://amzn.to/3PxTIIx)
 
-## 👀 Must-Haves
-- **Rip Sticks:** [Link](https://amzn.to/3JooAaw)
-- **Stack Saver:** [Link](https://tinyurl.com/3t52w7n6)
-
 ## 🎮 Controller Setup
 - **TX16S Controller:** [Link](https://amzn.to/3YpdkPu)
 - **Battery:** [Link](https://amzn.to/3SSWd7M)
