@@ -62,8 +62,11 @@ Every participant will be working with Google Colab as their own copy.
 **Workshop notebook**: [link to colab](https://colab.research.google.com/github/tomkaXX/BuildStuff/blob/main/BuildStuff.ipynb)  
 If you are using Google Colab, you can open the notebook in Google Colab directly from the GitHub link. This will allow you to work with the notebook in your own Colab environment without modifying the original file.
 
+### You’re Ready to go!
 
-## Useful Resources
+---
+
+## Additional and Useful Resources
 
 - [Geemap Book](https://book.geemap.org/)  
   A comprehensive guide to using Geemap for geospatial analysis with Google Earth Engine.
@@ -152,7 +155,7 @@ Racing drone in Mallorca (30 October 2024)
 
 
 
-### You’re Ready to go!
+
 
 
 
