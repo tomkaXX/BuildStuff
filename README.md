@@ -50,7 +50,8 @@ Register an account here: https://code.earthengine.google.com/
 **Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
 
 ✨ Follow this parameter for creating a project at the D2S platform. 
-**Flight data parameters for D2S Platform**:[Flight parameters](https://github.com/tomkaXX/BuildStuff/tree/main/sample%20data)
+
+**Flight data parameters for D2S Platform**:[parameters](https://github.com/tomkaXX/BuildStuff/tree/main/sample%20data)
 
 
 ## Useful Resources
