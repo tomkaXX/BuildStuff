@@ -105,8 +105,8 @@ Here’s a guide for testing drones and other vehicles in simulation:
 
 
 
-## ✈️ My Drones Video from Sri Lanka 
-Press on the image to watch the video
+## ✈️ My Drones Video
+Sri Lanka 2018. Press on the image to watch the video
 [![Scenic filming Video](https://img.youtube.com/vi/YBrenZHu31g/maxresdefault.jpg)](https://www.youtube.com/watch?v=YBrenZHu31g&ab_channel=TamaraKoliada)
 
 
