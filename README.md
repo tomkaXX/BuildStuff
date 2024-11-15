@@ -4,6 +4,8 @@ Workshop for a BuildStuff 2024
 **Participant Level**: All Levels  
 **Date and Time**: 14:00 PM – 16:00 PM  
 **Location**: Opsillon Room (2nd Floor)  
+
+**Presentation**: [link to prezi](https://prezi.com/view/2jS6FFfvmolAuBgeuKmN/)
 **DS2 Platform Registration**: [Register your account here](https://ps2.d2s.org/projects)  
 **Workshop notebook**: [link to colab](https://colab.research.google.com/github/tomkaXX/BuildStuff/blob/main/BuildStuff.ipynb)  
 **Flight sample data**: [Link to Google Drive files](https://drive.google.com/drive/folders/1fjakT4R7E1o1wTQA_FMNjdt41Y7BixxU?usp=sharing)  
