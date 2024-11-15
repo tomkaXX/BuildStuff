@@ -58,6 +58,7 @@ Currently, ipywidgets does not work well with Colab dark theme. Some of the geem
 ## Colab 
 
 Every participant will be working with Google Colab as their own copy.
+
 **Workshop notebook**: [link to colab](https://colab.research.google.com/github/tomkaXX/BuildStuff/blob/main/BuildStuff.ipynb)  
 If you are using Google Colab, you can open the notebook in Google Colab directly from the GitHub link. This will allow you to work with the notebook in your own Colab environment without modifying the original file.
 
