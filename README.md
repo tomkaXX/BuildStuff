@@ -53,6 +53,7 @@ Flight sample data: [Link to Google Drive files](https://drive.google.com/drive/
 
 Flight data parameters for D2S Platform:[parameters](https://github.com/tomkaXX/BuildStuff/tree/main/sample%20data)
 
+Currently, ipywidgets does not work well with Colab dark theme. Some of the geemap widgets may not display properly in Colab dark theme. It is recommended that you change Colab to the light theme.
 
 ## Useful Resources
 
